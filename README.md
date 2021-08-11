@@ -1,8 +1,7 @@
 ![Hi](https://thumbs.gfycat.com/EthicalObedientCirriped-size_restricted.gif)
 ## 👋 Hi! I am an Italian developer.
-### - 🖥️ I can work with html, py, js, C# , C++ , php.
-### - 💻 I'm currently working on  discord token generator.
-### - 💎 My discord: swaps.#9999
+
+### - 💎 My discord: swaps#6812
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ut&layout=compact" alt="3ut" /></p>
 
