@@ -1,4 +1,4 @@
-![Hi](https://thumbs.gfycat.com/EthicalObedientCirriped-size_restricted.gif)
+<p align="center"> <img src="https://thumbs.gfycat.com/EthicalObedientCirriped-size_restricted.gif"</p>
 ## 👋 Hi! I am an Italian developer.
 
 
