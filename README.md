@@ -5,7 +5,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=h4xton&label=Profile%20views&color=0e75b6&style=flat" alt="3ut" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=3ut&label=Profile%20views&color=0e75b6&style=flat" alt="3ut" /> </p>
 
 <p align="center"> - 🔭 I’m currently working on ...</p>
 
@@ -13,6 +13,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://discordapp.com/users/852995819104108544">
+    <a href="https://discordapp.com/users/870600305446879264">
    <img alt="Discord" src="https://img.shields.io/badge/swaps%236812-Discord-%231c03fc'"></a>  
 </p>
