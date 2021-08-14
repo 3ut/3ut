@@ -13,6 +13,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://discordapp.com/users/870600305446879264">
-   <img alt="Discord" src="https://img.shields.io/badge/swaps%236812-Discord-%231c03fc'"></a>  
+    <a href="https://discordapp.com/users/853374852559274014">
+   <img alt="Discord" src="https://img.shields.io/badge/swaps%239999-Discord-%231c03fc'"></a>  
 </p>
