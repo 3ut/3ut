@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://thumbs.gfycat.com/EthicalObedientCirriped-size_restricted.gif" /> </p>
-
 <p align="center"> 👋 Hi! I am an Italian developer.</p>
 
 
