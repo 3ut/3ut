@@ -1,4 +1,4 @@
-<p align="center"> 👋 Hi! I am an Italian developer.</p>
+<p align="center"> 👋 Hi! i'm an Italian developer.</p>
 
 
 <p align="center"> - 🔭 I’m currently working on Ozu Spammer</p>
