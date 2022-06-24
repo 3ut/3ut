@@ -3,10 +3,6 @@
 <p align="center"> 👋 Hi! I am an Italian developer.</p>
 
 
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=3ut&label=Profile%20views&color=0e75b6&style=flat" alt="3ut" /> </p>
-
 <p align="center"> - 🔭 I’m currently working on Ozu Spammer</p>
 
 
