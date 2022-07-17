@@ -1,5 +1,5 @@
 <p align="center"> 👋 Hi! i'm an Italian developer.</p>
-<p align="center"> 💻 I am interested in the HTTP protocol</p>
+<p align="center"> 💻 I'm interested in the HTTP protocol</p>
 <p align="center"> 🔭 I’m currently working on Ozu Spammer</p>
 
 
